@@ -1,0 +1,23 @@
+print("hello Lua")
+
+--全局变量
+num = 100
+print(num)
+
+--局部变量
+local localNum = 1000
+print(localNum)
+
+function sayHello()
+	print("hello everybody")
+end
+
+sayHello()
+
+function max(a,b)
+	if a>b then
+	   return a
+	else
+	   return b
+	end
+end

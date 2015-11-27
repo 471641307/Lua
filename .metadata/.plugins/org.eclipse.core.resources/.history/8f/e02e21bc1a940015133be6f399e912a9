@@ -1,0 +1,10 @@
+-- 数组
+arr = {1,2,3,4,5,"nihao"}
+for key, var in pairs(arr) do
+	print(key, var)
+end
+
+arr1 = {}
+for var=1, 100 do
+	table.insert(arr,1,var)
+end

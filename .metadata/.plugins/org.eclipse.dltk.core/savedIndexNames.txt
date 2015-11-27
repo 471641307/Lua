@@ -1,0 +1,4 @@
+/Users/strai/学习/Lua/.metadata/.plugins/org.eclipse.dltk.core/3630052802.index
+/Users/strai/学习/Lua/.metadata/.plugins/org.eclipse.dltk.core/2270661730.index
+/Users/strai/学习/Lua/.metadata/.plugins/org.eclipse.dltk.core/2678012482.index
+/Users/strai/学习/Lua/.metadata/.plugins/org.eclipse.dltk.core/3447184683.index

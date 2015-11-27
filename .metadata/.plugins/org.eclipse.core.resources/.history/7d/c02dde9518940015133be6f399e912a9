@@ -1,0 +1,8 @@
+Config = {}
+Config.words = "words"
+Config.num = 33333
+Config["name"] = "liushicai"
+
+print(Config["num"])
+print(Config.words)
+print(Config.name)

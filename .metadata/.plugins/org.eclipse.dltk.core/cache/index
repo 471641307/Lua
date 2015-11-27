@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="16" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua02/src" timestamp="1448524797000" lastAccessTime="1448591564674">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2819783732/1.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua03Table/src" timestamp="1448526750000" lastAccessTime="1448591565051">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/4034933626/3.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua04Array/src" timestamp="1448527463000" lastAccessTime="1448591565249">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3131073075/5.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua02/src/main.lua" timestamp="1448525716000" lastAccessTime="1448591564663">
+    <attributes name="indexed" location="2838196607/3293263904/7.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua03Table/src/main.lua" timestamp="1448527175000" lastAccessTime="1448591565033">
+    <attributes name="indexed" location="2838196607/3800165517/9.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua04Array/src/main.lua" timestamp="1448527997000" lastAccessTime="1448591565205">
+    <attributes name="indexed" location="2838196607/1785607057/11.idx"/>
+  </entries>
+  <entries path="/Users/strai/&#x5b66;&#x4e60;/Lua/Lua05oop1/src" timestamp="1448591598000" lastAccessTime="1448596381131">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1326494787/13.idx"/>
+  </entries>
+</cache:CacheIndex>

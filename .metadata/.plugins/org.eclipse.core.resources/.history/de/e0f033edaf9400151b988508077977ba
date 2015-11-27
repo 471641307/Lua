@@ -1,0 +1,8 @@
+People = {}
+function People.sayHi()
+	print("people say hi")
+end
+
+People.sayHello = function()
+	print("people say hello")
+end

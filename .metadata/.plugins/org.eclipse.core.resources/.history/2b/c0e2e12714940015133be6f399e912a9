@@ -1,0 +1,3 @@
+print("hello Lua");
+
+num - 100

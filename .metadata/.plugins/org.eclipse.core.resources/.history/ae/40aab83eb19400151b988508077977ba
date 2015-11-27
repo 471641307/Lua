@@ -1,0 +1,21 @@
+-- 复制表的方式 面向对象
+--复制
+function clone(tab)
+	local ins = {}
+	for key, var in pairs(tab) do
+		ins[key] = var
+	end
+	return ins
+end
+
+People = {}
+function People.sayHi()
+	print("people say hi")
+end
+
+People.sayHello = function()
+	print("people say hello")
+end
+
+local p = clone(People)
+p.sayHi()

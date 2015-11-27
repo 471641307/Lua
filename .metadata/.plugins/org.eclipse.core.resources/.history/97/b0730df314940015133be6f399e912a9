@@ -1,0 +1,9 @@
+print("hello Lua")
+
+--全局变量
+num = 100
+print(num)
+
+--局部变量
+local localNum = 1000
+print(localNum)
